@@ -2,11 +2,11 @@
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/jumpeverysecond.lua"))()
 
 
-**Anime Tower Tycoon :*
+**Anime Tower Tycoon :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/animetowertycoon.lua"))()
 
 
-**Anime Legends Simulator : **
+**Anime Legends Simulator :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/alsscript/main/animelegendsim.lua"))()
 
 
@@ -14,5 +14,5 @@
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/flyrace.lua"))()
 
 
-**Anime Racing Clicker :*
+**Anime Racing Clicker :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/animeracingclicker.lua"))()
