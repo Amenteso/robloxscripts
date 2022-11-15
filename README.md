@@ -7,7 +7,7 @@
 
 
 **Anime Legends Simulator :**
->loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/alsscript/main/animelegendsim.lua"))()
+>loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/animelegendssimulator.lua"))()
 
 
 **Fly Race :**
