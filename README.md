@@ -1,4 +1,4 @@
-+1 Jump Every Second :
+#+1 Jump Every Second :
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/jumpeverysecond.lua"))()
 
 
