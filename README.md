@@ -20,3 +20,7 @@
 
 **Anime Racing Clicker :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/animeracingclicker.lua"))()
+
+
+**Doors Race Clicker :**
+>loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/doorsraceclicker.lua"))()
