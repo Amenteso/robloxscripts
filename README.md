@@ -24,3 +24,6 @@
 
 **Doors Race Clicker :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/doorsraceclicker.lua"))()
+
+**Doors Race Clicker Mobile:**
+>loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/robloxscripts/main/doorsracelickermobile.lua"))()
