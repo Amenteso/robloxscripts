@@ -33,3 +33,6 @@
 
 **How Far Can You Backflip Mobile:**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/howfarcanyoubackflipmobile.lua",true))()
+
+**Pet Race Clicker:**
+>loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/petraceclicker.lua",true))()
