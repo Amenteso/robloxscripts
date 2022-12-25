@@ -1,3 +1,6 @@
+**Ragdoll Jump :**
+>loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/ragdolljumpmobile.lua",true))()
+
 **+1 Jump Every Second :**
 >loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/jumpeverysecond.lua",true))()
 
